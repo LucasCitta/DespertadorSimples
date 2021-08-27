@@ -1,0 +1,11 @@
+C:\Users\lucas\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Alerta_horario.resources
+C:\Users\lucas\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\lucas\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Relogio.resources
+C:\Users\lucas\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\Relogio.csproj.GenerateResource.Cache
+C:\Users\lucas\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Sobre.resources
+C:\Users\lucas\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.doacao.resources
+C:\Users\lucas\documents\visual studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\DespertadorSimples por Lucas Citta.exe.config
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\DespertadorSimples por Lucas Citta.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\DespertadorSimples por Lucas Citta.pdb
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DespertadorSimples por Lucas Citta.exe
+C:\Users\lucas\Documents\Visual Studio 2015\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\DespertadorSimples por Lucas Citta.pdb
